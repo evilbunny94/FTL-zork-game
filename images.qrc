@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ship.png</file>
+        <file>kebab.png</file>
+        <file>winScreen.png</file>
+        <file>flower.png</file>
+        <file>key.png</file>
+        <file>officer.png</file>
+        <file>test.png</file>
+        <file>default.png</file>
+        <file>captain.png</file>
+        <file>engie.png</file>
+    </qresource>
+</RCC>
